@@ -62,3 +62,16 @@ h2 {
   padding: 20px;
   border-radius: 10px;
 }
+#full-stak-item {
+  border-left: 10px solid;
+  border-image: linear-gradient(purple, tomato);
+  border-image-slice: 1;
+}
+#baby-dev-exprence {
+  border-left: 10px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
+}
